@@ -12,6 +12,6 @@ The initial pattern constitutes the seed of the system. The first generation is 
 # The Code
 The code consists of two files,
  - GameOfLife.py
- - Config
+ - Config.py
 
 You can tweek the starting state in the config file. The generations parameter specifies how many times the cycle runs to stop and the initialGrid matrix is the starting state of the game.
